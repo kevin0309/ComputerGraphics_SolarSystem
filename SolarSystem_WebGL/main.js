@@ -327,7 +327,7 @@ function init() {
     controls = new THREE.OrbitControls(camera, renderer.domElement);
 
     // Load the images used in the background.
-    var path = 'cubemap/';
+    var path = './cubemap/';
     var format = '.jpg';
     var urls = [
         path + 'px' + format, path + 'nx' + format,

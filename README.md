@@ -1,5 +1,3 @@
 # ComputerGraphics_SolarSystem
-## Demo
-```
+## Demo page
 http://welcome.blog-yh.kr/SolarSystem_Demo/
-```

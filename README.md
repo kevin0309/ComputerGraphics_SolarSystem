@@ -4,3 +4,9 @@
 <br>
 ## Demo page
 http://welcome.blog-yh.kr/SolarSystem_Demo/
+
+## References
+### API
+- Three.js (https://threejs.org/)
+### Images
+- Solar System Scope (https://www.solarsystemscope.com/textures/)

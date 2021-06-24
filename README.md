@@ -6,7 +6,7 @@ WebGL 라이브러리 Three.js 를 활용한 태양계 구현
 소프트웨어학과 4학년 32141868 박유현
 
 ## Demo page
-http://welcome.blog-yh.kr/SolarSystem_Demo/
+http://blog.park-yh.com/SolarSystem_Demo/
 
 ## References
 ### API
